@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\ProjContato\ProjContato\bin\Debug\ProjContato.exe.config
+C:\Users\Acer\source\repos\ProjContato\ProjContato\bin\Debug\ProjContato.exe
+C:\Users\Acer\source\repos\ProjContato\ProjContato\bin\Debug\ProjContato.pdb
+C:\Users\Acer\source\repos\ProjContato\ProjContato\obj\Debug\ProjContato.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ProjContato\ProjContato\obj\Debug\ProjContato.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ProjContato\ProjContato\obj\Debug\ProjContato.exe
+C:\Users\Acer\source\repos\ProjContato\ProjContato\obj\Debug\ProjContato.pdb
